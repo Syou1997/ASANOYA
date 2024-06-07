@@ -21,7 +21,7 @@ export default {
       if(this.inputPwd === "TaiwanSyou"){
         alert("ログイン成功しました")
         this.$router.push({
-            name: "HomePage",
+            name: "About",
           });
       }else{
         alert("パスワードが間違っています")
