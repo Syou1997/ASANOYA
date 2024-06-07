@@ -204,4 +204,36 @@ h2 {
         opacity: 1;
     }
 }
+
+//RWD
+@media screen and (max-width: 940px) {
+    .container {
+        .main-area {
+            table {
+                tr {
+                    .title-pic {
+                        width: 30%;
+                    }
+
+                    .title-name {
+                        width: 20%;
+                    }
+
+                    .title-bag {
+                        width: 20%;
+                    }
+
+                    .title-comment {
+                        width: 30%;
+                    }
+
+                    td {
+                        font-size: 10px;
+                    }
+                }
+            }
+        }
+    }
+
+}
 </style>

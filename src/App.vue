@@ -30,7 +30,6 @@ header {
   align-items: center;
 
   h1 {
-    font-size: 50;
     cursor: pointer;
     transition: 0.2s;
 
@@ -39,5 +38,27 @@ header {
     }
 
   }
+}
+
+//RWD
+@media screen and (max-width: 700px) {
+
+  h1{
+    font-size: 25px;
+  }
+}
+
+@media screen and (max-width: 520px) {
+
+h1{
+  font-size: 17px;
+}
+}
+
+@media screen and (max-width: 350px) {
+
+h1{
+  font-size: 14px;
+}
 }
 </style>

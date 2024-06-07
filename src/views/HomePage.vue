@@ -121,7 +121,7 @@ export default {
 
 
 //RWD
-@media screen and (max-width: 850px) { 
+@media screen and (max-width: 940px) { 
     .option-area {
         .btn-area {
             flex-direction: column;

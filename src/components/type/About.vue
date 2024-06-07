@@ -43,8 +43,6 @@ export default {
 
      main {
 
-          margin-top: 1rem;
-
           .titleName {
                display: flex;
                justify-content: center;
@@ -76,4 +74,74 @@ export default {
           opacity: 1;
      }
 }
+
+//RWD
+@media screen and (max-width: 850px) {
+main {
+.titleName {
+
+     h1 {
+          font-size: 25px;    
+     }
+}
+
+.info {
+   flex-direction: column;
+
+     h2 {
+          margin-bottom: 2rem;
+     }
+}
+}
+}
+
+@media screen and (max-width: 600px) {
+main {
+
+
+
+.titleName {
+  
+
+     h1 {
+          font-size: 20px;
+     }
+}
+
+.info {
+   flex-direction: column;
+
+     h2 {
+          margin-bottom: 2rem;
+          font-size: 15px;
+     }
+}
+}
+}
+
+
+@media screen and (max-width: 400px) {
+main {
+
+
+
+.titleName {
+  
+
+     h1 {
+          font-size: 15px;
+     }
+}
+
+.info {
+   flex-direction: column;
+
+     h2 {
+          font-size: 10px;
+     }
+}
+}
+}
 </style>
+
+
