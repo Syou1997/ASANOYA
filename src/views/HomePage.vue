@@ -94,6 +94,7 @@ export default {
         display: flex;
         justify-content: space-evenly;
         margin-top: 0.5rem;
+    
         .btn {
             width: 120px;
             background-color: #ce092a;

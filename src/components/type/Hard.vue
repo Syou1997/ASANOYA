@@ -103,6 +103,7 @@ export default {
 </script>
 
 <template>
+    <a href="#top"><button class="back_to_top" type="button">▲</button></a>
     <h2>ハード</h2>
     <div class="container">
         <div class="main-area">
@@ -133,6 +134,38 @@ export default {
 </template>
 
 <style lang="scss" scoped>
+a {
+     font-weight: bold;
+     
+     .back_to_top {
+          position: fixed;
+          right: 0;
+          bottom: 0;
+          min-width: 30px;
+          display: block;
+          background-color: #e74141;
+          border: none;
+          border: 2px solid white;
+          cursor: pointer;
+          transition: all 0.2s ease;
+          color: white;
+
+
+          &:hover {
+               scale: 1.1;
+               background-color: white;
+               border: 2px solid #e74141;
+               color: black;
+
+          }
+
+          &:active {
+               scale: 0.95;
+          }
+
+     }
+
+}
 h2 {
     text-align: center;
 }
@@ -151,10 +184,13 @@ h2 {
 
         table {
             width: 100%;
+            border-collapse: collapse;
 
             tr {
                 th {
                     border: 1px solid black;
+                    position:sticky;
+                    top: 0;
                 }
 
                 .title {
