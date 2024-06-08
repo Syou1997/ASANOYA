@@ -111,6 +111,12 @@ export default {
                          comment: "Lorem ipsum。",
 
                     },
+                    {
+                         pic: "/bolognaSausageMuffin.jpg",
+                         name: "ボローニャソーセージマフィン",
+                         bag: "?",
+                         comment: "Lorem ipsum。",
+                    },
 
 
 
@@ -226,7 +232,9 @@ h2 {
                     }
 
                     //名稱
-                    .name {}
+                    .name {
+                         font-weight: bold;
+                    }
 
                     //袋子
                     .bag {}

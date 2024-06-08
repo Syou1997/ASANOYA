@@ -53,7 +53,111 @@ export default {
                          comment: "Lorem ipsum",
 
                     },
+                    {
+                         pic: "/seafoodSalad.jpg",
+                         name: "シーフードサラダ",
+                         bag: "包装不要",
+                         comment: "Lorem ipsum",
 
+                    },
+                    {
+                         pic: "/mapleButtercream.jpg",
+                         name: "メープルバタークリーム",
+                         bag: "包装不要",
+                         comment: "Lorem ipsum",
+
+                    },
+                    {
+                         pic: "/shinshuGoldenShamoLiverPaste.jpg",
+                         name: "信州黄金シャモのレバーペースト",
+                         bag: "包装不要",
+                         comment: "Lorem ipsum",
+
+                    },
+                    {
+                         pic: "/homemadePickles.jpg",
+                         name: "自家製ピクルス",
+                         bag: "包装不要",
+                         comment: "Lorem ipsum",
+
+                    },
+                    {
+                         pic: "/honeyRumRaisinButter.jpg",
+                         name: "はちみつラムレーズンバター",
+                         bag: "包装不要",
+                         comment: "Lorem ipsum",
+
+                    },
+                    {
+                         pic: "/honeyRumRaisinButter.jpg",
+                         name: "はちみつラムレーズンバター",
+                         bag: "包装不要",
+                         comment: "Lorem ipsum",
+
+                    },
+                    {
+                         pic: "/sunDriedTomatoDip.jpg",
+                         name: "ドライトマトのディップ",
+                         bag: "包装不要",
+                         comment: "Lorem ipsum",
+
+                    },
+                    {
+                         pic: "/duckRillettes.jpg",
+                         name: "鴨のリエット",
+                         bag: "包装不要",
+                         comment: "Lorem ipsum",
+
+                    },
+                    {
+                         pic: "/duckRillettesFG.jpg",
+                         name: "鴨のFG入リエット",
+                         bag: "包装不要",
+                         comment: "Lorem ipsum",
+
+                    },
+                    {
+                         pic: "/hamAndCreamCheeseOneHandedSandwich.jpg",
+                         name: "鴨のFG入リエット",
+                         bag: "?",
+                         comment: "Lorem ipsum",
+
+                    },
+                    {
+                         pic: "/kitakaruCamembertCheese.jpg",
+                         name: "北軽カマンベールチーズ",
+                         bag: "包装不要",
+                         comment: "Lorem ipsum",
+
+                    },
+                    {
+                         pic: "/condensedMilkButterCream.jpg",
+                         name: "練乳バタークリーム",
+                         bag: "包装不要",
+                         comment: "Lorem ipsum",
+
+                    },
+                    {
+                         pic: "/tapenade.jpg",
+                         name: "タップナード",
+                         bag: "包装不要",
+                         comment: "Lorem ipsum",
+
+                    },
+                    {
+                         pic: "/garlicButter.jpg",
+                         name: "ガーリックバター",
+                         bag: "包装不要",
+                         comment: "Lorem ipsum",
+
+                    },
+                    {
+                         pic: "/shinshuSPFPorkRillette.jpg",
+                         name: "信州SPFポークリエット",
+                         bag: "包装不要",
+                         comment: "Lorem ipsum",
+
+                    },
                ]
 
           }
@@ -166,7 +270,9 @@ h2 {
                     }
 
                     //名稱
-                    .name {}
+                    .name {
+                         font-weight: bold;
+                    }
 
                     //袋子
                     .bag {}

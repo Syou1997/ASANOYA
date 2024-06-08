@@ -80,7 +80,25 @@ export default {
                          pic: "/hokkaidoPotatoVegetableCroquette.jpg",
                          name: "北海道産じゃがいもの野菜コロッケ",
                          bag: "?",
-                         comment: "バLorem ipsum。",
+                         comment: "Lorem ipsum。",
+                    },
+                    {
+                         pic: "/LoinHamAndCheeseCroissantSandwich.jpg",
+                         name: "ロースハムとチーズのクロワッサンサンド",
+                         bag: "デニッシュ袋",
+                         comment: "Lorem ipsum。",
+                    },
+                    {
+                         pic: "/TunaSaladCroissantSandwich.jpg",
+                         name: "ツナサラダのクロワッサンサンド",
+                         bag: "デニッシュ袋",
+                         comment: "Lorem ipsum。",
+                    },
+                    {
+                         pic: "/cheeseSticks.jpg",
+                         name: "チーズスティック",
+                         bag: "デニッシュ袋",
+                         comment: "Lorem ipsum。",
                     },
                ]
 
@@ -194,7 +212,9 @@ h2 {
                     }
 
                     //名稱
-                    .name {}
+                    .name{
+                         font-weight: bold;
+                    }
 
                     //袋子
                     .bag {}

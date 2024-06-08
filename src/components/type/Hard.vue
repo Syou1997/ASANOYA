@@ -65,6 +65,30 @@ export default {
                     bag: "?",
                     comment: "水の代わりに牛乳を使用しているので、しっとりとした味わい。",
                 },
+                {
+                    pic: "/weizenmischebrot.jpg",
+                    name: "ヴァイツェンミッシェブロート",
+                    bag: "?",
+                    comment: "Lorem ipsum。",
+                },
+                {
+                    pic: "/pistachioBerryPie.jpg",
+                    name: "ビスタチオペリーバイ",
+                    bag: "?",
+                    comment: "Lorem ipsum。",
+                },
+                {
+                    pic: "/shinshuRyeMischeBroute.jpg",
+                    name: "信州産ライ麦のミッシュブロート",
+                    bag: "?",
+                    comment: "Lorem ipsum。",
+                },
+                {
+                    pic: "/germanCountryPanbauenbrode.jpg",
+                    name: "ドイツ風田舎パンバウエンブロード",
+                    bag: "?",
+                    comment: "Lorem ipsum。",
+                },
 
             ]
 
@@ -178,7 +202,9 @@ h2 {
                 }
 
                 //名稱
-                .name {}
+                .name {
+                    font-weight: bold;
+                }
 
                 //袋子
                 .bag {}

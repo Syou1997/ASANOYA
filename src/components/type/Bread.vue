@@ -65,6 +65,12 @@ export default {
                          bag: "3番袋",
                          comment: "Lorem ipsum。",
                     },
+                    {
+                         pic: "/britishBread.jpg",
+                         name: "イギリスパン",
+                         bag: "3番袋",
+                         comment: "Lorem ipsum。",
+                    },
                ]
 
           }
@@ -177,7 +183,9 @@ h2 {
                     }
 
                     //名稱
-                    .name {}
+                    .name {
+                         font-weight: bold;
+                    }
 
                     //袋子
                     .bag {}
