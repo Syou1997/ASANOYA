@@ -146,7 +146,7 @@ export default {
                     </tr>
                     <tr v-for="(item, index) in list" :key="index">
                          <td class="pic-frame">
-                              <img :src="item.pic" alt="画像な">
+                              <img :src="item.pic" alt="画像なし">
                          </td>
                          <td class="name">{{ item.name }}</td>
                          <td class="bag">{{ item.bag }}</td>
