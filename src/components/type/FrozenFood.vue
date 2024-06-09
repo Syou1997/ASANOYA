@@ -118,7 +118,7 @@ export default {
                     },
                     {
                          pic: "/hamAndCreamCheeseOneHandedSandwich.jpg",
-                         name: "鴨のFG入リエット",
+                         name: "生ハムとクリームチーズのワンハンドサンド",
                          bag: "?",
                          comment: "Lorem ipsum",
 
