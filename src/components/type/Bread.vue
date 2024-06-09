@@ -86,7 +86,7 @@ export default {
 <template>
      <a href="#top"><button class="back_to_top" type="button">▲</button></a>
      <h2>ブレッド</h2>
-     <div id="top" class="container">
+     <div class="container">
           <div class="main-area">
                <table>
                     <tr>
@@ -147,7 +147,6 @@ a {
      }
 
 }
-
 h2 {
      text-align: center;
 }
@@ -171,7 +170,7 @@ h2 {
                tr {
                     th {
                          border: 1px solid black;
-                         position: sticky;
+                         position:sticky;
                          top: 0;
                     }
 
