@@ -89,13 +89,6 @@ export default {
 
                     },
                     {
-                         pic: "/honeyRumRaisinButter.jpg",
-                         name: "はちみつラムレーズンバター",
-                         bag: "包装不要",
-                         comment: "Lorem ipsum",
-
-                    },
-                    {
                          pic: "/sunDriedTomatoDip.jpg",
                          name: "ドライトマトのディップ",
                          bag: "包装不要",
