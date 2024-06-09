@@ -61,7 +61,7 @@ export default {
                     },
                     {
                          pic: "/chewyBreadWalnut.jpg",
-                         name: "レーズンブレッド",
+                         name: "もちっと食パン( くるみ)",
                          bag: "3番袋",
                          comment: "Lorem ipsum。",
                     },
