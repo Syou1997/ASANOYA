@@ -11,8 +11,31 @@ export default {
                          bag: "OPP袋",
                          comment: "長野県産の小変を使用。シンプルな味わいのためそのままでも良いが、サンドイッチのように具を挟んで食べるのもおすすもの。",
                     },
+                    {
+                         pic: "/champignon.jpg",
+                         name: "シャンピニオン",
+                         bag: "ポリ袋",
+                         comment: "小さく丸めたフランスパン。シャンピニオンは「きのこ」の意味。",
+                    },
+                    {
+                         pic: "/butterRoll.jpg",
+                         name: "バターロール",
+                         bag: "ポリ袋",
+                         comment: "シンプルなバターロール。そのままでももちろん、切りこみを入れてロールサンドなどにも。",
+                    },
+                    {
+                         pic: "/butterRollBagging.jpg",
+                         name: "バターロール袋詰め",
+                         bag: "ポリ袋",
+                         comment: "バターロールの5個入り。",
+                    },
+                    {
+                         pic: "/butterSalt.jpg",
+                         name: "バターソルト",
+                         bag: "ポリ袋",
+                         comment: "バターを練りこみ、仕上げに岩塩を振りかけたシンプルな塩パン。",
+                    },
 
-                   
 
                ]
 
@@ -60,7 +83,7 @@ export default {
 <style lang="scss" scoped>
 a {
      font-weight: bold;
-     
+
      .back_to_top {
           position: fixed;
           right: 0;
@@ -90,6 +113,7 @@ a {
      }
 
 }
+
 h2 {
      text-align: center;
 }
@@ -113,7 +137,7 @@ h2 {
                tr {
                     th {
                          border: 1px solid black;
-                         position:sticky;
+                         position: sticky;
                          top: 0;
                     }
 

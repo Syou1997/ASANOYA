@@ -8,14 +8,14 @@ export default {
                     {
                          pic: "/zakuKuroneCustard.jpg",
                          name: "ザククロネカスタード",
-                         bag: "包装不要",
+                         bag: "OPP袋",
                          comment: "Lorem ipsum",
 
                     },
                     {
                          pic: "/zakuKuroneStrawberry.jpg",
                          name: "ザククロネいちご",
-                         bag: "包装不要",
+                         bag: "OPP袋",
                          comment: "Lorem ipsum",
 
                     },

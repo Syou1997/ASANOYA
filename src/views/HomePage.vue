@@ -74,8 +74,6 @@ export default {
             <button @click="toSalty" class="btn" type="button">塩小物</button>
             <button @click="toSimple" class="btn" type="button">シンプル</button>
             <button @click="toFrozenFood" class="btn" type="button">冷凍食品</button>
-
-
         </div>
 
     </div>

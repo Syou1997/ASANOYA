@@ -22,12 +22,12 @@ export default {
                          pic: "/melonBread.jpg",
                          name: "メロンパン",
                          bag: "ポリ袋",
-                         comment: "シンプルなメロンパン。お子様に人気。。",
+                         comment: "シンプルなメロンパン。お子様に人気",
                     },
                     {
                          pic: "/AnFrance.jpg",
                          name: "あんフランス",
-                         bag: "ポリ袋",
+                         bag: "ポリ袋、OPP袋",
                          comment: "フランス生地にあんこを挟んだ食べ応えがある商品。あんこは粒あん。",
                     },
                     {
@@ -45,8 +45,15 @@ export default {
                     {
                          pic: "/cinnamonRoll.jpg",
                          name: "シナモンロール",
-                         bag: "ポテフラバック",
+                         bag: "ポテフラパック",
                          comment: "練乳を練りこんだ生地にナッツやシナモンクリームを巻き込みました。トッピングのチーズ風味のクリームはレンジで30秒ほどあたためるととろ〜り溶けてさらに美味しい。",
+
+                    },
+                    {
+                         pic: "/LemonCinnamonRoll.jpg",
+                         name: "レモンシナモンロール",
+                         bag: "ポテフラパック",
+                         comment: "Lorem ipsum。",
 
                     },
                     {
@@ -74,47 +81,27 @@ export default {
                          comment: "中にはチョコレートがきっしり。チョコ好きにはたまらない。",
                     },
                     {
-                         pic: "/butterRoll.jpg",
-                         name: "バターロール",
-                         bag: "ポリ袋",
-                         comment: "シンプルなバターロール。そのままでももちろん、切りこみを入れてロールサンドなどにも。",
-                    },
-                    {
-                         pic: "/butterRollBagging.jpg",
-                         name: "バターロール袋詰め",
-                         bag: "ポリ袋",
-                         comment: "バターロールの5個入り。",
-                    },
-                    {
-                         pic: "/champignon.jpg",
-                         name: "シャンピニオン",
-                         bag: "ポリ袋",
-                         comment: "小さく丸めたフランスパン。シャンピニオンは「きのこ」の意味。",
-                    },
-                    {
                          pic: "/bonjourChocolat.jpg",
                          name: "ボンジュールショコラ",
                          bag: "OPP袋",
                          comment: "やわらかい生地にチョコチップを包みました。",
                     },
                     {
-                         pic: "/cafeBread.jpg",
-                         name: "カフェブレッド",
-                         bag: "2番袋",
+                         pic: "/blueberrBagel.jpg",
+                         name: "ブルーベリーベーグル",
+                         bag: "OPP袋",
                          comment: "Lorem ipsum。",
-
                     },
                     {
-                         pic: "/teaBread.jpg",
-                         name: "ティーブレッド",
-                         bag: "2番袋",
+                         pic: "/blueberryCroissant.jpg",
+                         name: "信州産ブルーベリーのクロワッサンオザマンド",
+                         bag: "窓口袋",
                          comment: "Lorem ipsum。",
-
                     },
                     {
-                         pic: "/bolognaSausageMuffin.jpg",
-                         name: "ボローニャソーセージマフィン",
-                         bag: "?",
+                         pic: "/appy90thBirthdayAnpan.jpg",
+                         name: "九十歳おめでたいあんぱん",
+                         bag: "OPP袋",
                          comment: "Lorem ipsum。",
                     },
 
@@ -166,7 +153,7 @@ export default {
 <style lang="scss" scoped>
 a {
      font-weight: bold;
-     
+
      .back_to_top {
           position: fixed;
           right: 0;
@@ -196,6 +183,7 @@ a {
      }
 
 }
+
 h2 {
      text-align: center;
 }
@@ -219,7 +207,7 @@ h2 {
                tr {
                     th {
                          border: 1px solid black;
-                         position:sticky;
+                         position: sticky;
                          top: 0;
                     }
 

@@ -28,7 +28,7 @@ export default {
                     {
                          pic: "/potatoFrench.jpg",
                          name: "ポテトフランス",
-                         bag: "ポテフラバック",
+                         bag: "ポテフラパック",
                          comment: "フランス生地に皮つきじゃがいもがまるごと入っています。上にはマヨネーズがたっぷり。",
 
                     },
@@ -48,7 +48,7 @@ export default {
                     {
                          pic: "/focaccia.jpg",
                          name: "セミドライトマトとチーズのもっちリフォカッチャ",
-                         bag: "専用窓口袋",
+                         bag: "窓口袋",
                          comment: "ドライトマトの酸味がくせになる夏におすすめの一品。",
                     },
                     {
@@ -65,39 +65,45 @@ export default {
                          comment: "フランス生地にチーズクリーム、角切りチーズを練りこみスティック状に仕上げました。",
                     },
                     {
-                         pic: "/butterSalt.jpg",
-                         name: "バターソルト",
-                         bag: "ポリ袋",
-                         comment: "バターを練りこみ、仕上げに岩塩を振りかけたシンプルな塩パン。",
-                    },
-                    {
                          pic: "/mincedMeatCutlet.jpg",
                          name: "メンチカツ",
-                         bag: "?",
+                         bag: "小バック",
                          comment: "バLorem ipsum。",
                     },
                     {
                          pic: "/hokkaidoPotatoVegetableCroquette.jpg",
                          name: "北海道産じゃがいもの野菜コロッケ",
-                         bag: "?",
+                         bag: "小バック",
                          comment: "Lorem ipsum。",
                     },
                     {
                          pic: "/LoinHamAndCheeseCroissantSandwich.jpg",
                          name: "ロースハムとチーズのクロワッサンサンド",
-                         bag: "デニッシュ袋",
+                         bag: "デニッシュ袋、窓口袋",
                          comment: "Lorem ipsum。",
                     },
                     {
                          pic: "/TunaSaladCroissantSandwich.jpg",
                          name: "ツナサラダのクロワッサンサンド",
-                         bag: "デニッシュ袋",
+                         bag: "デニッシュ袋、窓口袋",
                          comment: "Lorem ipsum。",
                     },
                     {
-                         pic: "/cheeseSticks.jpg",
-                         name: "チーズスティック",
-                         bag: "デニッシュ袋",
+                         pic: "/porkFrench.jpg",
+                         name: "ポークフランス",
+                         bag: "ポリ袋",
+                         comment: "Lorem ipsum。",
+                    },
+                    {
+                         pic: "/perillaBacon.jpg",
+                         name: "大葉ベーコン",
+                         bag: "ポリ袋",
+                         comment: "Lorem ipsum。",
+                    },
+                    {
+                         pic: "/bolognaSausageMuffin.jpg",
+                         name: "ボローニャソーセージマフィン",
+                         bag: "窓口袋",
                          comment: "Lorem ipsum。",
                     },
                ]

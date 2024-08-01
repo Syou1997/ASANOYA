@@ -8,20 +8,20 @@ export default {
                 {
                     pic: "/fruitRye.jpg",
                     name: "フルーツライ\n1本/ハーフ",
-                    bag: "3番袋",
+                    bag: "3番袋、OPP袋",
                     comment: "軽井沢本店1番人気商品。ライ麦の生地にレーズン、オレンジピール、くるみが入った香り豊かな商品。1〜1.5cの薄めがオススメ。",
                 },
                 {
                     pic: "/premiumFruitRye.jpg",
                     name: "プレミアムフルーツライ\n1本/ハーフ",
-                    bag: "3番袋",
+                    bag: "3番袋、OPP袋",
                     comment: "フルーツライよりかオレンジピール3倍!ジューシーです。1.5mがオススメ。",
                 },
                 {
                     pic: "/whiteFigAndNutRyeBread.jpg",
                     name: "白いちじくと木の実のライ麦パン",
-                    bag: "2番袋",
-                    comment: "ライ麦30%の生地にラムレーズン、イチジクとくるみ、アーモンド、カシューナッツなど。1〜1.5mの薄めがオススメ。。",
+                    bag: "2番袋、OPP袋",
+                    comment: "ライ麦30%の生地にラムレーズン、イチジクとくるみ、アーモンド、カシューナッツなど。1〜1.5mの薄めがオススメ。",
                 },
                 {
                     pic: "/painDeCampagne.jpg",
@@ -32,7 +32,7 @@ export default {
                 {
                     pic: "/batard.jpg",
                     name: "バタール",
-                    bag: "3番袋",
+                    bag: "フランス袋",
                     comment: "短くて太いフランスパン。",
                 },
                 {
@@ -62,31 +62,31 @@ export default {
                 {
                     pic: "/breadLait.jpg",
                     name: "パン●オレ",
-                    bag: "?",
+                    bag: "3番袋",
                     comment: "水の代わりに牛乳を使用しているので、しっとりとした味わい。",
                 },
                 {
                     pic: "/weizenmischebrot.jpg",
                     name: "ヴァイツェンミッシェブロート",
-                    bag: "?",
+                    bag: "3番袋、OPP袋",
                     comment: "Lorem ipsum。",
                 },
                 {
                     pic: "/pistachioBerryPie.jpg",
                     name: "ビスタチオペリーバイ",
-                    bag: "?",
+                    bag: "バーガー袋",
                     comment: "Lorem ipsum。",
                 },
                 {
                     pic: "/shinshuRyeMischeBroute.jpg",
                     name: "信州産ライ麦のミッシュブロート",
-                    bag: "?",
+                    bag: "3番袋",
                     comment: "Lorem ipsum。",
                 },
                 {
                     pic: "/germanCountryPanbauenbrode.jpg",
                     name: "ドイツ風田舎パンバウエンブロード",
-                    bag: "?",
+                    bag: "3番袋",
                     comment: "Lorem ipsum。",
                 },
 

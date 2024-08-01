@@ -42,6 +42,12 @@ export default {
                          comment: "レザンシリーズ※の季節限定商品。※軽井沢レザン等の同形状、り売りパンをレザンシリーズと呼んでいます。社内用語です。",
                     },
                     {
+                         pic: "/KaruizawaLemonade.jpg",
+                         name: "軽井沢レモネード",
+                         bag: "3番袋",
+                         comment: "Lorem ipsum。",
+                    },
+                    {
                          pic: "/wholeWhiteBread.jpg",
                          name: "ホールホイートブレッド",
                          bag: "3番袋",
@@ -49,19 +55,19 @@ export default {
                     },
                     {
                          pic: "/briocheOrange.jpg",
-                         name: "ブリオッシュオランジュ",
+                         name: "ブリオッシュオランジュ\n(軽井沢限定)",
                          bag: "2番袋",
                          comment: "Lorem ipsum。",
                     },
                     {
                          pic: "/raisinBread.jpg",
-                         name: "レーズンブレッド",
+                         name: "レーズンブレッド\n(軽井沢限定)",
                          bag: "3番袋",
                          comment: "Lorem ipsum。",
                     },
                     {
                          pic: "/chewyBreadWalnut.jpg",
-                         name: "もちっと食パン( くるみ)",
+                         name: "もちっと食パン(くるみ)\n(軽井沢限定)",
                          bag: "3番袋",
                          comment: "Lorem ipsum。",
                     },
@@ -70,6 +76,20 @@ export default {
                          name: "イギリスパン",
                          bag: "3番袋",
                          comment: "Lorem ipsum。",
+                    },
+                    {
+                         pic: "/cafeBread.jpg",
+                         name: "カフェブレッド\n(軽井沢限定)",
+                         bag: "2番袋",
+                         comment: "Lorem ipsum。",
+
+                    },
+                    {
+                         pic: "/teaBread.jpg",
+                         name: "ティーブレッド\n(軽井沢限定)",
+                         bag: "2番袋",
+                         comment: "Lorem ipsum。",
+
                     },
                ]
 
