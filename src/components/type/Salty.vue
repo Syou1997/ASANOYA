@@ -33,6 +33,13 @@ export default {
 
                     },
                     {
+                         pic: "/whitePotatoFrench.jpg",
+                         name: "竹重農園の白いものポテトフランス",
+                         bag: "ポテフラパック",
+                         comment: "Lorem ipsum。",
+
+                    },
+                    {
                          pic: "/garlicFrench.jpg",
                          name: "ガーリックフランス",
                          bag: "ポリ袋",
@@ -48,7 +55,7 @@ export default {
                     {
                          pic: "/focaccia.jpg",
                          name: "セミドライトマトとチーズのもっちリフォカッチャ",
-                         bag: "窓口袋",
+                         bag: "デリカパック",
                          comment: "ドライトマトの酸味がくせになる夏におすすめの一品。",
                     },
                     {
@@ -56,6 +63,13 @@ export default {
                          name: "新宿中村屋麻婆カリーパン",
                          bag: "バーガー袋",
                          comment: "財間派定コラボ商品。辛いのでお子様の販売時は注意。",
+
+                    },
+                    {
+                         pic: "/katcharBatchalCurryBread.jpg",
+                         name: "カッチャルバッチャルローストチキンキーマカレーパン",
+                         bag: "バーガー袋",
+                         comment: "Lorem ipsum。",
 
                     },
                     {
@@ -79,13 +93,19 @@ export default {
                     {
                          pic: "/LoinHamAndCheeseCroissantSandwich.jpg",
                          name: "ロースハムとチーズのクロワッサンサンド",
-                         bag: "デニッシュ袋、窓口袋",
+                         bag: "デリカパック",
                          comment: "Lorem ipsum。",
                     },
                     {
                          pic: "/TunaSaladCroissantSandwich.jpg",
                          name: "ツナサラダのクロワッサンサンド",
-                         bag: "デニッシュ袋、窓口袋",
+                         bag: "デリカパック",
+                         comment: "Lorem ipsum。",
+                    },
+                    {
+                         pic: "/BLTBagelSandwich.jpg",
+                         name: "BLT全粒粉ベーグルサンド",
+                         bag: "デリカパック",
                          comment: "Lorem ipsum。",
                     },
                     {
@@ -103,7 +123,13 @@ export default {
                     {
                          pic: "/bolognaSausageMuffin.jpg",
                          name: "ボローニャソーセージマフィン",
-                         bag: "窓口袋",
+                         bag: "デリカパック",
+                         comment: "Lorem ipsum。",
+                    },
+                    {
+                         pic: "/conteCheeseFrenchBread.jpg",
+                         name: "ボンフロマージュ",
+                         bag: "デニッシュ袋、OPP袋",
                          comment: "Lorem ipsum。",
                     },
                ]

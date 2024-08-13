@@ -69,9 +69,21 @@ export default {
                          comment: "アップルバイ。",
                     },
                     {
+                         pic: "/lemonPie.jpg",
+                         name: "レモンパイ",
+                         bag: "バーガー袋",
+                         comment: "レモンパイ。",
+                    },
+                    {
+                         pic: "/blueberryPie.jpg",
+                         name: "信州産ブルーベリーパイ",
+                         bag: "デリカパック",
+                         comment: "Lorem ipsum。",
+                    },
+                    {
                          pic: "/appleAndEarlGrayOzamandCustard.jpg",
                          name: "りんごとアールグレイのオザマンド〜カスタード入り",
-                         bag: "デニッシュ袋",
+                         bag: "デリカパック",
                          comment: "オザマンドとは、フランス語で「アーモンド」。",
                     },
                     {
@@ -95,7 +107,7 @@ export default {
                     {
                          pic: "/blueberryCroissant.jpg",
                          name: "信州産ブルーベリーのクロワッサンオザマンド",
-                         bag: "窓口袋",
+                         bag: "デリカパック",
                          comment: "Lorem ipsum。",
                     },
                     {
@@ -104,7 +116,12 @@ export default {
                          bag: "OPP袋",
                          comment: "Lorem ipsum。",
                     },
-
+                    {
+                         pic: "/creamCheeseAndSberries.jpg",
+                         name: "スイートクリームチーズと5種のベリー",
+                         bag: "デリカパック",
+                         comment: "Lorem ipsum。",
+                    },
 
 
                ]

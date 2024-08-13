@@ -89,6 +89,19 @@ export default {
                     bag: "3番袋",
                     comment: "Lorem ipsum。",
                 },
+                {
+                    pic: "/bauernbrodWalnut.jpg",
+                    name: "バウエンブロート(カレンズ&くるみ)",
+                    bag: "3番袋",
+                    comment: "Lorem ipsum。",
+                },
+                {
+                    pic: "/sesameAuLait .jpg",
+                    name: "セサミオレ",
+                    bag: "3番袋",
+                    comment: "Lorem ipsum。",
+                },
+                
 
             ]
 
