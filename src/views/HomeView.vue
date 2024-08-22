@@ -50,7 +50,7 @@ export default {
   <div class="login-frame">
     <div class="login-area">
 
-      <h3>パスポート</h3>
+      <h3>パスワード</h3>
       <input v-model="inputPwd" type="text">
 
     </div>
