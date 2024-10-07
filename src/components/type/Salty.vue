@@ -81,13 +81,13 @@ export default {
                     {
                          pic: "/mincedMeatCutlet.jpg",
                          name: "メンチカツ",
-                         bag: "小バック",
+                         bag: "小バック、バーガー袋(一個)",
                          comment: "バLorem ipsum。",
                     },
                     {
                          pic: "/hokkaidoPotatoVegetableCroquette.jpg",
                          name: "北海道産じゃがいもの野菜コロッケ",
-                         bag: "小バック",
+                         bag: "小バック、バーガー袋(一個)",
                          comment: "Lorem ipsum。",
                     },
                     {
@@ -130,6 +130,18 @@ export default {
                          pic: "/conteCheeseFrenchBread.jpg",
                          name: "ボンフロマージュ",
                          bag: "デニッシュ袋、OPP袋",
+                         comment: "Lorem ipsum。",
+                    },
+                    {
+                         pic: "/asama.jpg",
+                         name: "浅間山",
+                         bag: "OPP袋",
+                         comment: "Lorem ipsum。",
+                    },
+                    {
+                         pic: "/tunaAndOnionFocaccia.jpg",
+                         name: "ツナとオニオンのフォカッチャ",
+                         bag: "デリカパック",
                          comment: "Lorem ipsum。",
                     },
                ]

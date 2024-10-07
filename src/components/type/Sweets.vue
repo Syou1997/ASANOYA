@@ -117,11 +117,30 @@ export default {
                          comment: "Lorem ipsum。",
                     },
                     {
-                         pic: "/creamCheeseAndSberries.jpg",
-                         name: "スイートクリームチーズと5種のベリー",
-                         bag: "デリカパック",
+                         pic: "/summerMandarinOrangeAnpan.jpg",
+                         name: "夏みかんあんぱん",
+                         bag: "OPP袋",
                          comment: "Lorem ipsum。",
                     },
+                    {
+                         pic: "/creamCheeseAndSberries.jpg",
+                         name: "スイートクリームチーズと5種のベリー",
+                         bag: "デリカパック、ポリ袋",
+                         comment: "Lorem ipsum。",
+                    },
+                    {
+                         pic: "/harvest.jpg",
+                         name: "ハーベスト",
+                         bag: "デニッシュ袋、ポリ袋",
+                         comment: "Lorem ipsum。",
+                    },
+                    {
+                         pic: "/applePieObuse.jpg",
+                         name: "信州産食べごろりんごのアップルパイ(小布施)",
+                         bag: "バーガー袋",
+                         comment: "アップルバイ。",
+                    },
+
 
 
                ]
