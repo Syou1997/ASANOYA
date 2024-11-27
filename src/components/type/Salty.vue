@@ -144,6 +144,12 @@ export default {
                          bag: "デリカパック",
                          comment: "Lorem ipsum。",
                     },
+                    {
+                         pic: "/croqueMonsieur.jpg",
+                         name: "3種チーズとスモークハムのクロックムッシュ",
+                         bag: "デニッシュ袋、ポリ袋",
+                         comment: "Lorem ipsum。",
+                    },
                ]
 
           }

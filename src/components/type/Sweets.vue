@@ -69,6 +69,31 @@ export default {
                          comment: "アップルバイ。",
                     },
                     {
+                         pic: "/applePieObuse.jpg",
+                         name: "信州産食べごろりんごのアップルパイ(小布施)",
+                         bag: "バーガー袋",
+                         comment: "アップルバイ。",
+                    },
+
+                    {
+                         pic: "/akihiro.jpg",
+                         name: "信州産食べごろりんごのアップルパイ(秋映)",
+                         bag: "バーガー袋",
+                         comment: "アップルバイ。",
+                    },
+                    {
+                         pic: "/shinanoSweet.jpg",
+                         name: "信州産食べごろりんごのアップルパイ(シナノスイート)",
+                         bag: "バーガー袋",
+                         comment: "アップルバイ。",
+                    },
+                    {
+                         pic: "/redApplePie.jpg",
+                         name: "信州産紅玉のアップルパイ",
+                         bag: "バーガー袋",
+                         comment: "アップルバイ。",
+                    },
+                    {
                          pic: "/lemonPie.jpg",
                          name: "レモンパイ",
                          bag: "バーガー袋",
@@ -93,6 +118,12 @@ export default {
                          comment: "中にはチョコレートがきっしり。チョコ好きにはたまらない。",
                     },
                     {
+                         pic: "/purpleSweetPotatoDonut.jpg",
+                         name: "紫芋あんドーナツ",
+                         bag: "ポリ袋",
+                         comment: "Lorem ipsum。",
+                    },
+                    {
                          pic: "/bonjourChocolat.jpg",
                          name: "ボンジュールショコラ",
                          bag: "OPP袋",
@@ -107,6 +138,12 @@ export default {
                     {
                          pic: "/blueberryCroissant.jpg",
                          name: "信州産ブルーベリーのクロワッサンオザマンド",
+                         bag: "デリカパック",
+                         comment: "Lorem ipsum。",
+                    },
+                    {
+                         pic: "/rhubarbCroissant.jpg",
+                         name: "信州産ルバーブとスイードクリームチーズのオザマンド",
                          bag: "デリカパック",
                          comment: "Lorem ipsum。",
                     },
@@ -134,14 +171,6 @@ export default {
                          bag: "デニッシュ袋、ポリ袋",
                          comment: "Lorem ipsum。",
                     },
-                    {
-                         pic: "/applePieObuse.jpg",
-                         name: "信州産食べごろりんごのアップルパイ(小布施)",
-                         bag: "バーガー袋",
-                         comment: "アップルバイ。",
-                    },
-
-
 
                ]
 
