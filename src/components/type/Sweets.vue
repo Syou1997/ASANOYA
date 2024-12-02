@@ -124,6 +124,12 @@ export default {
                          comment: "Lorem ipsum。",
                     },
                     {
+                         pic: "/mandarinOrangeDonut.jpg",
+                         name: "みかんあんドーナツ",
+                         bag: "ポリ袋",
+                         comment: "Lorem ipsum。",
+                    },
+                    {
                          pic: "/bonjourChocolat.jpg",
                          name: "ボンジュールショコラ",
                          bag: "OPP袋",
